@@ -1,0 +1,8 @@
+# Folder ignore
+.idea/
+hw/
+Source Codes/
+
+# txt-files/*
+test.txt
+
